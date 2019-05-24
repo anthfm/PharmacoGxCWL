@@ -2,7 +2,9 @@
 
 CWL workflows for generating GRAY (2013,2017) and UHNBreast (2017,2019) PharmacoSets(PSets) using the *PharmacoGx* toolset.
 <br/>
+<br/>
 PSet will contain cell line/drug curations, processed drug sensitivity (AAC,IC50), molecular profiles (RNA-seq, methylation, RPPA).
+<br/>
 <br/>
 To execute a workflow, perform the following command within the workflow directory of a respective dataset (example for GRAY 2017 dataset):
 <br/>
