@@ -15,6 +15,9 @@ To execute a workflow, perform the following command within the workflow directo
 **NOTE**: Methylation data for GRAY 2013 and 2017 are compressed for uploading to GitHub. Therefore, please unzip the raw data file before execution.
 <br/>
 <br/>
+To investigate the gene-drug association between lapatinib and ERBB2 amplification in GRAY 2017 and UHN 2019 for biomarker discovery, run biomarker_discovery/biomarker.R with the GRAY 2017 and UHNBreast 2019 PSets.
+<br/>
+<br/>
 These pipelines and generated PSets can be found on **Code Ocean** and **Harvard Dataverse** at the following links:
 <br/>
 <br/>
